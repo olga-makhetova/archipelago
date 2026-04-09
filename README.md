@@ -107,7 +107,8 @@ cd archipelago
 ## 📸 Скриншот
 
 > Окно острова с сеткой, иконками существ и логом событий в реальном времени
-<img width="1275" height="486" alt="Archipelago" src="https://github.com/user-attachments/assets/6a026b8b-6fcd-4ddc-afdf-84ec5d246c90" />
+<img width="1275" height="486" alt="Archipelago" src="https://github.com/user-attachments/assets/eb55852a-e8b5-4d93-bbdc-60019bca21eb" />
+
 
 ---
 
